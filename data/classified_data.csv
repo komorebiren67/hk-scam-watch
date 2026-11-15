@@ -1,0 +1,620 @@
+﻿year,type,keyword,language,query,query_clean,value,rank,is_generic,is_first,is_breakout,category_final,category_en,entity,note,collected_at
+2020,top,詐騙,zh,電話 詐騙,電話詐騙,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,香港 詐騙,香港詐騙,80,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,fraud,fraud,64,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,詐騙 英文,詐騙英文,64,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,詐騙 集團,詐騙集團,32,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,leverage 詐騙 操作 團,leverage詐騙操作團,21,6,False,True,False,投资/加密货币,Investment/cryptocurrency,,外汇杠杆投资诈骗团伙,2026-11-10
+2020,top,詐騙,zh,網絡 詐騙,網絡詐騙,19,7,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,詐騙 女神,詐騙女神,16,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,詐騙 新聞,詐騙新聞,14,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,口罩 詐騙,口罩詐騙,14,10,False,True,False,网购/交易,Online shopping/trading,,2020年口罩网购诈骗,2026-11-10
+2020,top,詐騙,zh,facebook 詐騙,facebook詐騙,12,11,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,Facebook,,2026-11-10
+2020,top,詐騙,zh,詐騙 網站,詐騙網站,11,12,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,詐騙 定義,詐騙定義,10,13,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,反 詐騙 協調 中心,反詐騙協調中心,10,14,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗机构/工具,2026-11-10
+2020,top,詐騙,zh,保險 詐騙,保險詐騙,9,15,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,,泛指保险诈骗,2026-11-10
+2020,top,詐騙,zh,詐騙 電話 舉報,詐騙電話舉報,8,16,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2020,top,詐騙,zh,電信 詐騙,電信詐騙,7,17,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,信用卡 詐騙,信用卡詐騙,7,18,False,True,False,网购/交易,Online shopping/trading,,信用卡诈骗(盗刷),2026-11-10
+2020,top,詐騙,zh,詐騙 電話 查詢,詐騙電話查詢,7,19,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2020,top,詐騙,zh,信用 詐騙 師,信用詐騙師,6,20,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,詐騙,zh,both meet 詐騙,both meet詐騙,4,21,False,True,False,网上情缘/交友,Romance/social,Both Meet/BothLive,,2026-11-10
+2020,top,詐騙,zh,私募 寶 詐騙,私募寶詐騙,4,22,False,True,False,投资/加密货币,Investment/cryptocurrency,私募寶,,2026-11-10
+2020,top,詐騙,zh,wedate 詐騙,wedate詐騙,4,23,False,True,False,网上情缘/交友,Romance/social,WeDate,,2026-11-10
+2020,top,詐騙,zh,比較 問卷 詐騙,比較問卷詐騙,3,24,False,True,False,求职/兼职,Job/part-time work,,问卷调查奖励/任务诈骗,2026-11-10
+2020,top,詐騙,zh,燈籠 直播 詐騙,燈籠直播詐騙,3,25,False,True,False,网上情缘/交友,Romance/social,,直播平台刷礼物情缘诈骗,2026-11-10
+2020,rising,詐騙,zh,口罩 詐騙,口罩詐騙,125550,1,False,True,True,网购/交易,Online shopping/trading,,2020年口罩网购诈骗,2026-11-10
+2020,rising,詐騙,zh,both meet 詐騙,both meet詐騙,35800,2,False,True,True,网上情缘/交友,Romance/social,Both Meet/BothLive,,2026-11-10
+2020,rising,詐騙,zh,私募 寶 詐騙,私募寶詐騙,33950,3,False,True,True,投资/加密货币,Investment/cryptocurrency,私募寶,,2026-11-10
+2020,rising,詐騙,zh,wedate 詐騙,wedate詐騙,32150,4,False,True,True,网上情缘/交友,Romance/social,WeDate,,2026-11-10
+2020,rising,詐騙,zh,比較 問卷 詐騙,比較問卷詐騙,30200,5,False,True,True,求职/兼职,Job/part-time work,,问卷调查奖励/任务诈骗,2026-11-10
+2020,rising,詐騙,zh,燈籠 直播 詐騙,燈籠直播詐騙,27050,6,False,True,True,网上情缘/交友,Romance/social,,直播平台刷礼物情缘诈骗,2026-11-10
+2020,rising,詐騙,zh,huobi global 詐騙,huobi global詐騙,26050,7,False,True,True,投资/加密货币,Investment/cryptocurrency,Huobi,火币(Huobi)相关诈骗,2026-11-10
+2020,rising,詐騙,zh,守望 傳說 詐騙 魔 法師 與 雙重 人格,守望傳説詐騙魔法師與雙重人格,25950,8,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2020,rising,詐騙,zh,happy 文具 社 詐騙,happy文具社詐騙,25200,9,False,True,True,网购/交易,Online shopping/trading,,假冒文具网店诈骗,2026-11-10
+2020,rising,詐騙,zh,c date 詐騙,c date詐騙,23750,10,False,True,True,网上情缘/交友,Romance/social,C-Date,,2026-11-10
+2020,rising,詐騙,zh,黃金 詐騙,黃金詐騙,20800,11,False,True,True,投资/加密货币,Investment/cryptocurrency,,投资诈骗(伦敦金/黄金/股票),2026-11-10
+2020,rising,詐騙,zh,兆 活 果實 詐騙,兆活果實詐騙,15950,12,False,True,True,保健品/消费品骗局,Health/consumer product scams,,保健品/产品类骗局,2026-11-10
+2020,rising,詐騙,zh,bothlive 詐騙,bothlive詐騙,15700,13,False,True,True,网上情缘/交友,Romance/social,Both Meet/BothLive,,2026-11-10
+2020,rising,詐騙,zh,sayhi 詐騙,sayhi詐騙,11350,14,False,True,True,网上情缘/交友,Romance/social,SayHi,,2026-11-10
+2020,rising,詐騙,zh,電信 詐騙,電信詐騙,300,15,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,rising,詐騙,zh,信用卡 詐騙,信用卡詐騙,250,16,False,True,False,网购/交易,Online shopping/trading,,信用卡诈骗(盗刷),2026-11-10
+2020,rising,詐騙,zh,詐騙 定義,詐騙定義,130,17,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,rising,詐騙,zh,詐騙 電話 查詢,詐騙電話查詢,60,18,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2020,rising,詐騙,zh,詐騙 英文,詐騙英文,50,19,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,rising,詐騙,zh,詐騙 電話 舉報,詐騙電話舉報,40,20,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2020,rising,詐騙,zh,電話 詐騙,電話詐騙,40,21,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,騙案,zh,carousell 騙 案,carousell騙案,100,1,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2020,top,騙案,zh,網 上 情緣 騙 案,網上情緣騙案,56,2,False,True,False,网上情缘/交友,Romance/social,,泛指网上情缘诈骗,2026-11-10
+2020,top,騙案,zh,whatsapp 騙 案,whatsapp騙案,43,3,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2020,rising,騙案,zh,carousell 騙 案,carousell騙案,170,1,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2020,top,騙局,zh,騙局 英文,騙局英文,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,騙局,zh,比特 幣 騙局,比特幣騙局,42,2,False,True,False,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2020,top,騙局,zh,騙局 電影,騙局電影,41,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,騙局,zh,theranos 騙局,theranos騙局,33,4,False,True,False,保健品/消费品骗局,Health/consumer product scams,Theranos,Theranos滴血验癌骗局,2026-11-10
+2020,top,騙局,zh,pi 幣 騙局,pi幣騙局,21,5,False,True,False,投资/加密货币,Investment/cryptocurrency,Pi Network,Pi币(Pi Network)相关骗局,2026-11-10
+2020,top,騙局,zh,世紀 騙局,世紀騙局,18,6,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2020,top,騙局,zh,jpex 騙局,jpex騙局,15,7,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2020,top,騙局,zh,炒股 騙局,炒股騙局,13,8,False,True,False,投资/加密货币,Investment/cryptocurrency,,投资诈骗(伦敦金/黄金/股票),2026-11-10
+2020,top,騙局,zh,fake 菁 英 大 騙局,fake菁英大騙局,11,9,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2020,top,騙局,zh,矽谷 騙局,矽谷騙局,10,10,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,騙局,zh,阿爾巴尼亞 金字塔 騙局,阿爾巴尼亞金字塔騙局,10,11,False,True,False,投资/加密货币,Investment/cryptocurrency,,阿尔巴尼亚金字塔集资骗局(历史事件),2026-11-10
+2020,top,騙局,zh,隨機 騙局,隨機騙局,8,12,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2020,top,騙局,zh,bitcoin revolution 騙局,bitcoin revolution騙局,5,13,False,True,False,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2020,rising,騙局,zh,pi 幣 騙局,pi幣騙局,76100,1,False,True,True,投资/加密货币,Investment/cryptocurrency,Pi Network,Pi币(Pi Network)相关骗局,2026-11-10
+2020,rising,騙局,zh,世紀 騙局,世紀騙局,66400,2,False,True,True,其他,Other,,泛指/具体所指不明,2026-11-10
+2020,rising,騙局,zh,炒股 騙局,炒股騙局,47000,3,False,True,True,投资/加密货币,Investment/cryptocurrency,,投资诈骗(伦敦金/黄金/股票),2026-11-10
+2020,rising,騙局,zh,fake 菁 英 大 騙局,fake菁英大騙局,40600,4,False,True,True,其他,Other,,泛指/具体所指不明,2026-11-10
+2020,rising,騙局,zh,阿爾巴尼亞 金字塔 騙局,阿爾巴尼亞金字塔騙局,35100,5,False,True,True,投资/加密货币,Investment/cryptocurrency,,阿尔巴尼亚金字塔集资骗局(历史事件),2026-11-10
+2020,rising,騙局,zh,隨機 騙局,隨機騙局,29600,6,False,True,True,其他,Other,,泛指/具体所指不明,2026-11-10
+2020,rising,騙局,zh,bitcoin revolution 騙局,bitcoin revolution騙局,19600,7,False,True,True,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2020,rising,騙局,zh,騙局 電影,騙局電影,40,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,fraud,fraud,100,1,True,False,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scam 中文,scam中文,22,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scam email,scam email,11,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scam meaning,scam meaning,11,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scam 1992,scam 1992,6,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scam call,scam call,5,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,spam,spam,5,7,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scammer,scammer,5,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scam website,scam website,4,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,romance scam,romance scam,4,10,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2020,top,scam,en,scan,scan,3,11,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scam 意思,scam意思,3,12,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scam 中文 意思,scam中文意思,1,13,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,credit card scam protection,credit card scam protection,1,14,False,True,False,防骗与求助资源,Anti-scam resources,,信用卡诈骗防范,2026-11-10
+2020,top,scam,en,scam website check,scam website check,1,15,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2020,top,scam,en,how to scam in adopt me,how to scam in adopt me,1,16,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,oxybreath pro scam,oxybreath pro scam,1,17,False,True,False,保健品/消费品骗局,Health/consumer product scams,,保健品/产品类骗局,2026-11-10
+2020,top,scam,en,scampi 中文,scampi中文,1,18,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,scammed 中文,scammed中文,1,19,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,top,scam,en,amazon automation scam,amazon automation scam,0,20,False,True,False,求职/兼职,Job/part-time work,Amazon,Amazon自动化赚钱骗局,2026-11-10
+2020,rising,scam,en,scam 1992,scam 1992,143500,1,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2020,rising,scam,en,credit card scam protection,credit card scam protection,28900,2,False,True,True,防骗与求助资源,Anti-scam resources,,信用卡诈骗防范,2026-11-10
+2020,rising,scam,en,oxybreath pro scam,oxybreath pro scam,22900,3,False,True,True,保健品/消费品骗局,Health/consumer product scams,,保健品/产品类骗局,2026-11-10
+2020,rising,scam,en,amazon automation scam,amazon automation scam,8150,4,False,True,True,求职/兼职,Job/part-time work,Amazon,Amazon自动化赚钱骗局,2026-11-10
+2020,rising,scam,en,how to scam in adopt me,how to scam in adopt me,180,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,rising,scam,en,scam call,scam call,110,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,rising,scam,en,scam website check,scam website check,70,7,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2020,rising,scam,en,scampi 中文,scampi中文,70,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,rising,scam,en,scam 意思,scam意思,60,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2020,rising,scam,en,scam meaning,scam meaning,40,10,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,詐騙,zh,電話 詐騙,電話詐騙,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,詐騙,zh,香港 詐騙,香港詐騙,85,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,詐騙,zh,fraud,fraud,78,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,詐騙,zh,詐騙 英文,詐騙英文,48,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,詐騙,zh,詐騙 集團,詐騙集團,40,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,詐騙,zh,網絡 詐騙,網絡詐騙,23,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,詐騙,zh,投資 詐騙,投資詐騙,16,7,False,True,False,投资/加密货币,Investment/cryptocurrency,,泛指投资诈骗,2026-11-10
+2021,top,詐騙,zh,詐騙 新聞,詐騙新聞,13,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,詐騙,zh,反 詐騙 協調 中心,反詐騙協調中心,10,9,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗机构/工具,2026-11-10
+2021,top,詐騙,zh,信用卡 詐騙,信用卡詐騙,10,10,False,True,False,网购/交易,Online shopping/trading,,信用卡诈骗(盗刷),2026-11-10
+2021,top,詐騙,zh,whatsapp 詐騙,whatsapp詐騙,9,11,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2021,top,詐騙,zh,詐騙 電話 號碼,詐騙電話號碼,9,12,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2021,top,詐騙,zh,詐騙 報案,詐騙報案,9,13,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2021,top,詐騙,zh,虛擬 貨幣 詐騙,虛擬貨幣詐騙,8,14,False,True,False,投资/加密货币,Investment/cryptocurrency,,泛指加密货币/虚拟货币诈骗,2026-11-10
+2021,top,詐騙,zh,舉報 詐騙 電話,舉報詐騙電話,8,15,False,True,False,防骗与求助资源,Anti-scam resources,,举报诈骗,2026-11-10
+2021,top,詐騙,zh,順豐 詐騙,順豐詐騙,8,16,False,True,False,冒充物流/公共服务,Logistics/public service impersonation,順豐速運,假冒顺丰速运短信,2026-11-10
+2021,top,詐騙,zh,ai trader 詐騙,ai trader詐騙,8,17,False,True,False,投资/加密货币,Investment/cryptocurrency,AI Trader,假冒AI Trader自动交易平台,2026-11-10
+2021,top,詐騙,zh,hongkongpost 詐騙,hongkongpost詐騙,6,18,False,True,False,冒充物流/公共服务,Logistics/public service impersonation,Hongkong Post,假冒香港邮政短信,2026-11-10
+2021,top,詐騙,zh,宣明 會 詐騙,宣明會詐騙,6,19,False,True,False,冒充慈善机构,Charity impersonation,宣明會,假冒世界宣明会助养儿童捐款诈骗,2026-11-10
+2021,top,詐騙,zh,反 詐騙 app,反詐騙app,4,20,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗机构/工具,2026-11-10
+2021,top,詐騙,zh,usdt 詐騙,usdt詐騙,3,21,False,True,False,投资/加密货币,Investment/cryptocurrency,USDT,USDT泰达币相关诈骗,2026-11-10
+2021,top,詐騙,zh,mt5 詐騙,mt5詐騙,3,22,False,True,False,投资/加密货币,Investment/cryptocurrency,MetaTrader 5,MT5交易平台相关诈骗,2026-11-10
+2021,top,詐騙,zh,hongkongpost live 詐騙,hongkongpost live詐騙,2,23,False,True,False,冒充物流/公共服务,Logistics/public service impersonation,Hongkong Post,假冒香港邮政短信,2026-11-10
+2021,top,詐騙,zh,大 律師 詐騙,大律師詐騙,2,24,False,True,False,冒充政府/执法人员,Government/law enforcement impersonation,,假冒律师/法律人士诈骗,2026-11-10
+2021,rising,詐騙,zh,ai trader 詐騙,ai trader詐騙,65900,1,False,True,True,投资/加密货币,Investment/cryptocurrency,AI Trader,假冒AI Trader自动交易平台,2026-11-10
+2021,rising,詐騙,zh,hongkongpost 詐騙,hongkongpost詐騙,55450,2,False,True,True,冒充物流/公共服务,Logistics/public service impersonation,Hongkong Post,假冒香港邮政短信,2026-11-10
+2021,rising,詐騙,zh,宣明 會 詐騙,宣明會詐騙,54900,3,False,True,True,冒充慈善机构,Charity impersonation,宣明會,假冒世界宣明会助养儿童捐款诈骗,2026-11-10
+2021,rising,詐騙,zh,反 詐騙 app,反詐騙app,35950,4,False,True,True,防骗与求助资源,Anti-scam resources,,反诈骗机构/工具,2026-11-10
+2021,rising,詐騙,zh,usdt 詐騙,usdt詐騙,28250,5,False,True,True,投资/加密货币,Investment/cryptocurrency,USDT,USDT泰达币相关诈骗,2026-11-10
+2021,rising,詐騙,zh,mt5 詐騙,mt5詐騙,26900,6,False,True,True,投资/加密货币,Investment/cryptocurrency,MetaTrader 5,MT5交易平台相关诈骗,2026-11-10
+2021,rising,詐騙,zh,hongkongpost live 詐騙,hongkongpost live詐騙,21300,7,False,True,True,冒充物流/公共服务,Logistics/public service impersonation,Hongkong Post,假冒香港邮政短信,2026-11-10
+2021,rising,詐騙,zh,大 律師 詐騙,大律師詐騙,19800,8,False,True,True,冒充政府/执法人员,Government/law enforcement impersonation,,假冒律师/法律人士诈骗,2026-11-10
+2021,rising,詐騙,zh,詐騙 劇團,詐騙劇團,17750,9,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2021,rising,詐騙,zh,維 納 斯 直播 詐騙,維納斯直播詐騙,14750,10,False,True,True,网上情缘/交友,Romance/social,,直播平台刷礼物情缘诈骗,2026-11-10
+2021,rising,詐騙,zh,sweetring 詐騙,sweetring詐騙,13650,11,False,True,True,网上情缘/交友,Romance/social,SweetRing,,2026-11-10
+2021,rising,詐騙,zh,tinyurl 詐騙,tinyurl詐騙,12700,12,False,True,True,账户与通讯软件盗用,Account/messaging app takeover,TinyURL,TinyURL短链接钓鱼,2026-11-10
+2021,rising,詐騙,zh,v show 詐騙,v show詐騙,12350,13,False,True,True,网上情缘/交友,Romance/social,VShow,VShow直播/聊天应用,2026-11-10
+2021,rising,詐騙,zh,imtoken 詐騙,imtoken詐騙,10750,14,False,True,True,投资/加密货币,Investment/cryptocurrency,imToken,imToken加密钱包钓鱼,2026-11-10
+2021,rising,詐騙,zh,gagahi 詐騙,gagahi詐騙,9600,15,False,True,True,网上情缘/交友,Romance/social,GagaHi,,2026-11-10
+2021,rising,詐騙,zh,虛擬 貨幣 詐騙,虛擬貨幣詐騙,120,16,False,True,False,投资/加密货币,Investment/cryptocurrency,,泛指加密货币/虚拟货币诈骗,2026-11-10
+2021,rising,詐騙,zh,網絡 詐騙,網絡詐騙,40,17,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,騙案,zh,carousell 騙 案,carousell騙案,100,1,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2021,top,騙案,zh,whatsapp 騙 案,whatsapp騙案,67,2,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2021,top,騙案,zh,網 上 情緣 騙 案,網上情緣騙案,56,3,False,True,False,网上情缘/交友,Romance/social,,泛指网上情缘诈骗,2026-11-10
+2021,top,騙案,zh,比 華 利 山 騙 案 黎 偉業,比華利山騙案黎偉業,39,4,False,True,False,其他,Other,,具体个案(比华利山骗案),2026-11-10
+2021,rising,騙案,zh,比 華 利 山 騙 案 黎 偉業,比華利山騙案黎偉業,125050,1,False,True,True,其他,Other,,具体个案(比华利山骗案),2026-11-10
+2021,top,騙局,zh,jpex 騙局,jpex騙局,100,1,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2021,top,騙局,zh,騙局 英文,騙局英文,61,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,騙局,zh,比特 幣 騙局,比特幣騙局,32,3,False,True,False,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2021,top,騙局,zh,bee network 騙局,bee network騙局,20,4,False,True,False,投资/加密货币,Investment/cryptocurrency,Bee Network,,2026-11-10
+2021,top,騙局,zh,助 養 兒童 騙局,助養兒童騙局,20,5,False,True,False,冒充慈善机构,Charity impersonation,宣明會,假冒世界宣明会助养儿童捐款诈骗,2026-11-10
+2021,top,騙局,zh,股票 騙局,股票騙局,17,6,False,True,False,投资/加密货币,Investment/cryptocurrency,,投资诈骗(伦敦金/黄金/股票),2026-11-10
+2021,top,騙局,zh,微信 女 騙局,微信女騙局,16,7,False,True,False,网上情缘/交友,Romance/social,WeChat,微信交友/情缘诈骗,2026-11-10
+2021,top,騙局,zh,bitcoin code 騙局,bitcoin code騙局,16,8,False,True,False,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2021,top,騙局,zh,nft 騙局,nft騙局,14,9,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2021,top,騙局,zh,bee 蜜蜂 網 鏈 騙局,bee蜜蜂網鏈騙局,11,10,False,True,False,投资/加密货币,Investment/cryptocurrency,Bee Network,,2026-11-10
+2021,top,騙局,zh,pi 幣 騙局,pi幣騙局,10,11,False,True,False,投资/加密货币,Investment/cryptocurrency,Pi Network,Pi币(Pi Network)相关骗局,2026-11-10
+2021,top,騙局,zh,宣明 會 助 養 兒童 騙局,宣明會助養兒童騙局,10,12,False,True,False,冒充慈善机构,Charity impersonation,宣明會,假冒世界宣明会助养儿童捐款诈骗,2026-11-10
+2021,top,騙局,zh,the ethereum code 騙局,the ethereum code騙局,7,13,False,True,False,投资/加密货币,Investment/cryptocurrency,Ethereum,以太坊自动交易骗局,2026-11-10
+2021,rising,騙局,zh,助 養 兒童 騙局,助養兒童騙局,99950,1,False,True,True,冒充慈善机构,Charity impersonation,宣明會,假冒世界宣明会助养儿童捐款诈骗,2026-11-10
+2021,rising,騙局,zh,bitcoin code 騙局,bitcoin code騙局,78850,2,False,True,True,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2021,rising,騙局,zh,nft 騙局,nft騙局,71250,3,False,True,True,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2021,rising,騙局,zh,bee 蜜蜂 網 鏈 騙局,bee蜜蜂網鏈騙局,54100,4,False,True,True,投资/加密货币,Investment/cryptocurrency,Bee Network,,2026-11-10
+2021,rising,騙局,zh,宣明 會 助 養 兒童 騙局,宣明會助養兒童騙局,48250,5,False,True,True,冒充慈善机构,Charity impersonation,宣明會,假冒世界宣明会助养儿童捐款诈骗,2026-11-10
+2021,rising,騙局,zh,the ethereum code 騙局,the ethereum code騙局,33050,6,False,True,True,投资/加密货币,Investment/cryptocurrency,Ethereum,以太坊自动交易骗局,2026-11-10
+2021,rising,騙局,zh,jpex 騙局,jpex騙局,1100,7,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2021,rising,騙局,zh,bee network 騙局,bee network騙局,400,8,False,True,False,投资/加密货币,Investment/cryptocurrency,Bee Network,,2026-11-10
+2021,rising,騙局,zh,微信 女 騙局,微信女騙局,200,9,False,True,False,网上情缘/交友,Romance/social,WeChat,微信交友/情缘诈骗,2026-11-10
+2021,top,scam,en,fraud,fraud,100,1,True,False,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scam 中文,scam中文,24,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scam email,scam email,9,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scam meaning,scam meaning,8,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,online scam,online scam,7,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scam call,scam call,6,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,bitcoin scam,bitcoin scam,6,7,False,True,False,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2021,top,scam,en,scammer,scammer,4,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scan,scan,4,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scam 1992,scam 1992,3,10,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,phishing,phishing,3,11,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scam 意思,scam意思,3,12,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,spam,spam,3,13,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scammed,scammed,2,14,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,scam city,scam city,2,15,False,True,False,其他,Other,,具体所指不明,2026-11-10
+2021,top,scam,en,nft scam,nft scam,2,16,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2021,top,scam,en,scam synonym,scam synonym,2,17,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,yuan pay group scam,yuan pay group scam,1,18,False,True,False,投资/加密货币,Investment/cryptocurrency,Yuan Pay Group,,2026-11-10
+2021,top,scam,en,pi coin scam,pi coin scam,1,19,False,True,False,投资/加密货币,Investment/cryptocurrency,Pi Network,Pi币(Pi Network)相关骗局,2026-11-10
+2021,top,scam,en,scammed 中文,scammed中文,1,20,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2021,top,scam,en,amway quixtar scam,amway quixtar scam,1,21,False,True,False,保健品/消费品骗局,Health/consumer product scams,Amway,安利/Quixtar直销争议,2026-11-10
+2021,top,scam,en,nigerian scam,nigerian scam,1,22,False,True,False,其他,Other,,尼日利亚预付款诈骗,2026-11-10
+2021,rising,scam,en,nft scam,nft scam,45300,1,False,True,True,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2021,rising,scam,en,yuan pay group scam,yuan pay group scam,22600,2,False,True,True,投资/加密货币,Investment/cryptocurrency,Yuan Pay Group,,2026-11-10
+2021,rising,scam,en,amway quixtar scam,amway quixtar scam,170,3,False,True,False,保健品/消费品骗局,Health/consumer product scams,Amway,安利/Quixtar直销争议,2026-11-10
+2021,rising,scam,en,pi coin scam,pi coin scam,130,4,False,True,False,投资/加密货币,Investment/cryptocurrency,Pi Network,Pi币(Pi Network)相关骗局,2026-11-10
+2022,top,詐騙,zh,柬埔寨 詐騙,柬埔寨詐騙,100,1,False,True,False,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,top,詐騙,zh,柬埔寨,柬埔寨,99,2,False,True,False,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,top,詐騙,zh,tinder 詐騙,tinder詐騙,91,3,False,True,False,网上情缘/交友,Romance/social,Tinder,Tinder交友诈骗(Netflix纪录片),2026-11-10
+2022,top,詐騙,zh,電話 詐騙,電話詐騙,86,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,詐騙,zh,tinder 詐騙 王,tinder詐騙王,85,5,False,True,False,网上情缘/交友,Romance/social,Tinder,Tinder交友诈骗(Netflix纪录片),2026-11-10
+2022,top,詐騙,zh,詐騙 英文,詐騙英文,36,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,詐騙,zh,詐騙 集團,詐騙集團,27,7,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,詐騙,zh,網絡 詐騙,網絡詐騙,18,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,詐騙,zh,台灣 詐騙,台灣詐騙,17,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,詐騙,zh,衛生 署 詐騙 電話,衞生署詐騙電話,14,10,False,True,False,冒充政府/执法人员,Government/law enforcement impersonation,衞生署,假冒卫生署电话,2026-11-10
+2022,top,詐騙,zh,詐騙 手法,詐騙手法,12,11,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,詐騙,zh,whatsapp 詐騙,whatsapp詐騙,11,12,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2022,top,詐騙,zh,dhl 詐騙,dhl詐騙,11,13,False,True,False,冒充物流/公共服务,Logistics/public service impersonation,DHL,假冒DHL速递短信,2026-11-10
+2022,top,詐騙,zh,詐騙 新聞,詐騙新聞,10,14,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,詐騙,zh,詐騙 電話 舉報,詐騙電話舉報,10,15,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2022,top,詐騙,zh,詐騙 熱線,詐騙熱線,10,16,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2022,top,詐騙,zh,反 詐騙 協調 中心,反詐騙協調中心,8,17,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗机构/工具,2026-11-10
+2022,top,詐騙,zh,緬甸 詐騙,緬甸詐騙,8,18,False,True,False,跨境诈骗园区,Cross-border scam compounds,緬甸,缅甸诈骗园区,2026-11-10
+2022,top,詐騙,zh,柬埔寨 詐騙 影片,柬埔寨詐騙影片,6,19,False,True,False,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,top,詐騙,zh,kk 園區,kk園區,6,20,False,True,False,跨境诈骗园区,Cross-border scam compounds,,KK园区等跨境诈骗园区,2026-11-10
+2022,top,詐騙,zh,柬埔寨 詐騙 懶 人 包,柬埔寨詐騙懶人包,5,21,False,True,False,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,top,詐騙,zh,台灣 柬埔寨 詐騙,台灣柬埔寨詐騙,5,22,False,True,False,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,top,詐騙,zh,shopback 詐騙,shopback詐騙,4,23,False,True,False,网购/交易,Online shopping/trading,ShopBack,ShopBack返现平台相关诈骗,2026-11-10
+2022,top,詐騙,zh,bybit 詐騙,bybit詐騙,4,24,False,True,False,投资/加密货币,Investment/cryptocurrency,Bybit,,2026-11-10
+2022,top,詐騙,zh,aax 詐騙,aax詐騙,3,25,False,True,False,投资/加密货币,Investment/cryptocurrency,AAX,AAX加密货币交易所诈骗,2026-11-10
+2022,rising,詐騙,zh,柬埔寨 詐騙,柬埔寨詐騙,966050,1,False,True,True,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,rising,詐騙,zh,柬埔寨,柬埔寨,958650,2,False,True,True,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,rising,詐騙,zh,tinder 詐騙 王,tinder詐騙王,825200,3,False,True,True,网上情缘/交友,Romance/social,Tinder,Tinder交友诈骗(Netflix纪录片),2026-11-10
+2022,rising,詐騙,zh,柬埔寨 詐騙 影片,柬埔寨詐騙影片,60100,4,False,True,True,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,rising,詐騙,zh,kk 園區,kk園區,58800,5,False,True,True,跨境诈骗园区,Cross-border scam compounds,,KK园区等跨境诈骗园区,2026-11-10
+2022,rising,詐騙,zh,柬埔寨 詐騙 懶 人 包,柬埔寨詐騙懶人包,52200,6,False,True,True,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,rising,詐騙,zh,台灣 柬埔寨 詐騙,台灣柬埔寨詐騙,47450,7,False,True,True,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2022,rising,詐騙,zh,shopback 詐騙,shopback詐騙,41200,8,False,True,True,网购/交易,Online shopping/trading,ShopBack,ShopBack返现平台相关诈骗,2026-11-10
+2022,rising,詐騙,zh,bybit 詐騙,bybit詐騙,36400,9,False,True,True,投资/加密货币,Investment/cryptocurrency,Bybit,,2026-11-10
+2022,rising,詐騙,zh,aax 詐騙,aax詐騙,28500,10,False,True,True,投资/加密货币,Investment/cryptocurrency,AAX,AAX加密货币交易所诈骗,2026-11-10
+2022,rising,詐騙,zh,heymandi 詐騙,heymandi詐騙,26150,11,False,True,True,网上情缘/交友,Romance/social,Heymandi,Heymandi交友应用,2026-11-10
+2022,rising,詐騙,zh,lorraine chen 詐騙,lorraine chen詐騙,25850,12,False,True,True,其他,Other,,Lorraine Chen(个案人物),2026-11-10
+2022,rising,詐騙,zh,全球 反 詐騙 組織,全球反詐騙組織,25750,13,False,True,True,防骗与求助资源,Anti-scam resources,,反诈骗机构/工具,2026-11-10
+2022,rising,詐騙,zh,jpex 詐騙,jpex詐騙,23800,14,False,True,True,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2022,rising,詐騙,zh,pi 幣 詐騙,pi幣詐騙,18100,15,False,True,True,投资/加密货币,Investment/cryptocurrency,Pi Network,Pi币(Pi Network)相关骗局,2026-11-10
+2022,rising,詐騙,zh,舉報 詐騙 網站,舉報詐騙網站,17800,16,False,True,True,防骗与求助资源,Anti-scam resources,,举报诈骗,2026-11-10
+2022,rising,詐騙,zh,sweatcoin 詐騙,sweatcoin詐騙,16900,17,False,True,True,求职/兼职,Job/part-time work,Sweatcoin,Sweatcoin走路赚钱应用,2026-11-10
+2022,rising,詐騙,zh,tinder 詐騙 王 simon ig,tinder詐騙王simon ig,16650,18,False,True,True,网上情缘/交友,Romance/social,Tinder,Tinder交友诈骗(Netflix纪录片),2026-11-10
+2022,rising,詐騙,zh,hk dhl 詐騙,hk dhl詐騙,15850,19,False,True,True,冒充物流/公共服务,Logistics/public service impersonation,DHL,假冒DHL速递短信,2026-11-10
+2022,rising,詐騙,zh,bitget 詐騙,bitget詐騙,15350,20,False,True,True,投资/加密货币,Investment/cryptocurrency,Bitget,,2026-11-10
+2022,rising,詐騙,zh,qsms 詐騙,qsms詐騙,15250,21,False,True,True,其他,Other,,短信/平台名称缩写(具体所指不明),2026-11-10
+2022,rising,詐騙,zh,衛生 署 詐騙 電話,衞生署詐騙電話,1550,22,False,True,False,冒充政府/执法人员,Government/law enforcement impersonation,衞生署,假冒卫生署电话,2026-11-10
+2022,rising,詐騙,zh,tinder 詐騙,tinder詐騙,1500,23,False,True,False,网上情缘/交友,Romance/social,Tinder,Tinder交友诈骗(Netflix纪录片),2026-11-10
+2022,rising,詐騙,zh,緬甸 詐騙,緬甸詐騙,750,24,False,True,False,跨境诈骗园区,Cross-border scam compounds,緬甸,缅甸诈骗园区,2026-11-10
+2022,rising,詐騙,zh,dhl 詐騙,dhl詐騙,300,25,False,True,False,冒充物流/公共服务,Logistics/public service impersonation,DHL,假冒DHL速递短信,2026-11-10
+2022,top,騙案,zh,carousell 騙 案,carousell騙案,100,1,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2022,top,騙案,zh,詐騙,詐騙,70,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,騙案,zh,whatsapp 騙 案,whatsapp騙案,42,3,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2022,top,騙案,zh,網 上 情緣 騙 案,網上情緣騙案,39,4,False,True,False,网上情缘/交友,Romance/social,,泛指网上情缘诈骗,2026-11-10
+2022,rising,騙案,zh,詐騙,詐騙,120,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,rising,騙案,zh,carousell 騙 案,carousell騙案,60,2,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2022,top,騙局,zh,騙局 英文,騙局英文,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,騙局,zh,jpex 騙局,jpex騙局,75,2,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2022,top,騙局,zh,ethereum code 騙局,ethereum code騙局,69,3,False,True,False,投资/加密货币,Investment/cryptocurrency,Ethereum,以太坊自动交易骗局,2026-11-10
+2022,top,騙局,zh,nmn 騙局,nmn騙局,57,4,False,True,False,保健品/消费品骗局,Health/consumer product scams,NMN,NMN保健品骗局,2026-11-10
+2022,top,騙局,zh,the ethereum code 騙局,the ethereum code騙局,43,5,False,True,False,投资/加密货币,Investment/cryptocurrency,Ethereum,以太坊自动交易骗局,2026-11-10
+2022,top,騙局,zh,美國 騙局,美國騙局,43,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,騙局,zh,nft 騙局,nft騙局,34,7,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2022,top,騙局,zh,一滴 血 騙局,一滴血騙局,33,8,False,True,False,保健品/消费品骗局,Health/consumer product scams,Theranos,Theranos滴血验癌骗局,2026-11-10
+2022,top,騙局,zh,股票 騙局,股票騙局,27,9,False,True,False,投资/加密货币,Investment/cryptocurrency,,投资诈骗(伦敦金/黄金/股票),2026-11-10
+2022,top,騙局,zh,隨機 騙局,隨機騙局,23,10,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2022,top,騙局,zh,比特 幣 騙局,比特幣騙局,22,11,False,True,False,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2022,top,騙局,zh,世紀 大 騙局,世紀大騙局,15,12,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2022,top,騙局,zh,創新 大 騙局,創新大騙局,10,13,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2022,top,騙局,zh,ai trader 騙局,ai trader騙局,8,14,False,True,False,投资/加密货币,Investment/cryptocurrency,AI Trader,假冒AI Trader自动交易平台,2026-11-10
+2022,rising,騙局,zh,nmn 騙局,nmn騙局,180450,1,False,True,True,保健品/消费品骗局,Health/consumer product scams,NMN,NMN保健品骗局,2026-11-10
+2022,rising,騙局,zh,一滴 血 騙局,一滴血騙局,103600,2,False,True,True,保健品/消费品骗局,Health/consumer product scams,Theranos,Theranos滴血验癌骗局,2026-11-10
+2022,rising,騙局,zh,隨機 騙局,隨機騙局,73700,3,False,True,True,其他,Other,,泛指/具体所指不明,2026-11-10
+2022,rising,騙局,zh,世紀 大 騙局,世紀大騙局,46050,4,False,True,True,其他,Other,,泛指/具体所指不明,2026-11-10
+2022,rising,騙局,zh,創新 大 騙局,創新大騙局,29950,5,False,True,True,其他,Other,,泛指/具体所指不明,2026-11-10
+2022,rising,騙局,zh,ai trader 騙局,ai trader騙局,26250,6,False,True,True,投资/加密货币,Investment/cryptocurrency,AI Trader,假冒AI Trader自动交易平台,2026-11-10
+2022,rising,騙局,zh,the ethereum code 騙局,the ethereum code騙局,300,7,False,True,False,投资/加密货币,Investment/cryptocurrency,Ethereum,以太坊自动交易骗局,2026-11-10
+2022,rising,騙局,zh,ethereum code 騙局,ethereum code騙局,250,8,False,True,False,投资/加密货币,Investment/cryptocurrency,Ethereum,以太坊自动交易骗局,2026-11-10
+2022,rising,騙局,zh,美國 騙局,美國騙局,100,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,rising,騙局,zh,nft 騙局,nft騙局,50,10,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2022,top,scam,en,fraud,fraud,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,scam 中文,scam中文,28,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,scam email,scam email,11,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,scam meaning,scam meaning,10,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,scam call,scam call,8,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,nft scam,nft scam,6,6,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2022,top,scam,en,phone scam,phone scam,5,7,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,scammer,scammer,5,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,spam,spam,5,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,phishing,phishing,5,10,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,scam website,scam website,4,11,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,ponzi scam,ponzi scam,4,12,False,True,False,投资/加密货币,Investment/cryptocurrency,,庞氏骗局,2026-11-10
+2022,top,scam,en,cambodia scam,cambodia scam,4,13,False,True,False,跨境诈骗园区,Cross-border scam compounds,,东南亚诈骗园区,2026-11-10
+2022,top,scam,en,scam 意思,scam意思,3,14,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,bitcoin scam,bitcoin scam,3,15,False,True,False,投资/加密货币,Investment/cryptocurrency,Bitcoin,比特币投资骗局,2026-11-10
+2022,top,scam,en,romance scam,romance scam,3,16,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2022,top,scam,en,scam synonym,scam synonym,2,17,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,scam link,scam link,2,18,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,coffee scam,coffee scam,2,19,False,True,False,保健品/消费品骗局,Health/consumer product scams,,咖啡产品/品牌骗局,2026-11-10
+2022,top,scam,en,scammer 中文,scammer中文,2,20,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,top,scam,en,carousell scam,carousell scam,2,21,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2022,top,scam,en,starbucks coffee scam,starbucks coffee scam,1,22,False,True,False,保健品/消费品骗局,Health/consumer product scams,,咖啡产品/品牌骗局,2026-11-10
+2022,top,scam,en,jpex scam,jpex scam,1,23,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2022,rising,scam,en,cambodia scam,cambodia scam,82350,1,False,True,True,跨境诈骗园区,Cross-border scam compounds,,东南亚诈骗园区,2026-11-10
+2022,rising,scam,en,carousell scam,carousell scam,31150,2,False,True,True,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2022,rising,scam,en,starbucks coffee scam,starbucks coffee scam,24400,3,False,True,True,保健品/消费品骗局,Health/consumer product scams,,咖啡产品/品牌骗局,2026-11-10
+2022,rising,scam,en,global anti scam org,global anti scam org,19150,4,False,True,True,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2022,rising,scam,en,ethereum code scam,ethereum code scam,17950,5,False,True,True,投资/加密货币,Investment/cryptocurrency,Ethereum,以太坊自动交易骗局,2026-11-10
+2022,rising,scam,en,qsms scam,qsms scam,17400,6,False,True,True,其他,Other,,短信/平台名称缩写(具体所指不明),2026-11-10
+2022,rising,scam,en,geek squad,geek squad,15100,7,False,True,True,账户与通讯软件盗用,Account/messaging app takeover,Geek Squad,"假冒Geek Squad技术支持,诱装远程控制软件",2026-11-10
+2022,rising,scam,en,stepn scam,stepn scam,11450,8,False,True,True,投资/加密货币,Investment/cryptocurrency,STEPN,STEPN链游,2026-11-10
+2022,rising,scam,en,quantum code scam,quantum code scam,7600,9,False,True,True,投资/加密货币,Investment/cryptocurrency,Ethereum,以太坊自动交易骗局,2026-11-10
+2022,rising,scam,en,coffee scam,coffee scam,450,10,False,True,False,保健品/消费品骗局,Health/consumer product scams,,咖啡产品/品牌骗局,2026-11-10
+2022,rising,scam,en,scammer 中文,scammer中文,350,11,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2022,rising,scam,en,jpex scam,jpex scam,250,12,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2022,rising,scam,en,nft scam,nft scam,190,13,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2022,rising,scam,en,spam,spam,50,14,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,電話 詐騙,電話詐騙,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,香港 詐騙,香港詐騙,81,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,詐騙 英文,詐騙英文,35,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,詐騙 集團,詐騙集團,26,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,telegram 詐騙,telegram詐騙,23,5,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,Telegram,,2026-11-10
+2023,top,詐騙,zh,jpex 詐騙,jpex詐騙,22,6,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2023,top,詐騙,zh,詐騙 電話 舉報,詐騙電話舉報,16,7,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2023,top,詐騙,zh,詐騙 網站,詐騙網站,15,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,網絡 詐騙,網絡詐騙,14,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,緬甸 詐騙,緬甸詐騙,11,10,False,True,False,跨境诈骗园区,Cross-border scam compounds,緬甸,缅甸诈骗园区,2026-11-10
+2023,top,詐騙,zh,詐騙 電話 查詢,詐騙電話查詢,11,11,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2023,top,詐騙,zh,柬埔寨,柬埔寨,10,12,False,True,False,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2023,top,詐騙,zh,柬埔寨 詐騙,柬埔寨詐騙,10,13,False,True,False,跨境诈骗园区,Cross-border scam compounds,柬埔寨,柬埔寨诈骗园区/人口贩运,2026-11-10
+2023,top,詐騙,zh,shopback 詐騙,shopback詐騙,10,14,False,True,False,网购/交易,Online shopping/trading,ShopBack,ShopBack返现平台相关诈骗,2026-11-10
+2023,top,詐騙,zh,facetime 詐騙,facetime詐騙,9,15,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,FaceTime,FaceTime视频通话诈骗,2026-11-10
+2023,top,詐騙,zh,虛擬 貨幣 詐騙,虛擬貨幣詐騙,9,16,False,True,False,投资/加密货币,Investment/cryptocurrency,,泛指加密货币/虚拟货币诈骗,2026-11-10
+2023,top,詐騙,zh,詐騙 新聞,詐騙新聞,8,17,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,加密 貨幣 詐騙,加密貨幣詐騙,8,18,False,True,False,投资/加密货币,Investment/cryptocurrency,,泛指加密货币/虚拟货币诈骗,2026-11-10
+2023,top,詐騙,zh,反 詐騙 協調 中心,反詐騙協調中心,7,19,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗机构/工具,2026-11-10
+2023,top,詐騙,zh,吳宗憲 減肥 詐騙,吳宗憲減肥詐騙,6,20,False,True,False,保健品/消费品骗局,Health/consumer product scams,,明星减肥产品相关诈骗,2026-11-10
+2023,top,詐騙,zh,62 詐騙,62詐騙,6,21,False,True,False,其他,Other,,62前缀电话诈骗(具体所指不明),2026-11-10
+2023,top,詐騙,zh,whatsapp 視 像 通話 詐騙,whatsapp視像通話詐騙,5,22,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2023,top,詐騙,zh,okx 詐騙,okx詐騙,4,23,False,True,False,投资/加密货币,Investment/cryptocurrency,OKX,,2026-11-10
+2023,top,詐騙,zh,孤注一擲,孤注一擲,4,24,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,詐騙,zh,hounax 詐騙,hounax詐騙,4,25,False,True,False,投资/加密货币,Investment/cryptocurrency,Hounax,Hounax加密货币交易平台诈骗,2026-11-10
+2023,rising,詐騙,zh,facetime 詐騙,facetime詐騙,91500,1,False,True,True,账户与通讯软件盗用,Account/messaging app takeover,FaceTime,FaceTime视频通话诈骗,2026-11-10
+2023,rising,詐騙,zh,吳宗憲 減肥 詐騙,吳宗憲減肥詐騙,58200,2,False,True,True,保健品/消费品骗局,Health/consumer product scams,,明星减肥产品相关诈骗,2026-11-10
+2023,rising,詐騙,zh,whatsapp 視 像 通話 詐騙,whatsapp視像通話詐騙,45050,3,False,True,True,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2023,rising,詐騙,zh,孤注一擲,孤注一擲,40600,4,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2023,rising,詐騙,zh,hounax 詐騙,hounax詐騙,34000,5,False,True,True,投资/加密货币,Investment/cryptocurrency,Hounax,Hounax加密货币交易平台诈骗,2026-11-10
+2023,rising,詐騙,zh,香港 入境 處 電話 詐騙,香港入境處電話詐騙,31350,6,False,True,True,冒充政府/执法人员,Government/law enforcement impersonation,香港入境事務處,假冒入境处电话,2026-11-10
+2023,rising,詐騙,zh,csl 積分 詐騙,csl積分詐騙,31150,7,False,True,True,冒充物流/公共服务,Logistics/public service impersonation,CSL,假冒CSL电讯积分钓鱼,2026-11-10
+2023,rising,詐騙,zh,pacific view media 詐騙,pacific view media詐騙,29200,8,False,True,True,其他,Other,,Pacific View Media公司(具体手法不明),2026-11-10
+2023,rising,詐騙,zh,whatsapp 詐騙 手法,whatsapp詐騙手法,23750,9,False,True,True,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2023,rising,詐騙,zh,消費 券 詐騙 電話,消費券詐騙電話,22700,10,False,True,True,冒充政府/执法人员,Government/law enforcement impersonation,消費券計劃,假冒消费券计划电话,2026-11-10
+2023,rising,詐騙,zh,buyee 詐騙,buyee詐騙,21650,11,False,True,True,网购/交易,Online shopping/trading,Buyee,Buyee代购平台诈骗,2026-11-10
+2023,rising,詐騙,zh,iatsms 詐騙,iatsms詐騙,19400,12,False,True,True,其他,Other,,短信/平台名称缩写(具体所指不明),2026-11-10
+2023,rising,詐騙,zh,舉報 詐騙 電話 whatsapp,舉報詐騙電話whatsapp,17400,13,False,True,True,防骗与求助资源,Anti-scam resources,,举报诈骗,2026-11-10
+2023,rising,詐騙,zh,暗 格 相冊 詐騙,暗格相冊詐騙,16700,14,False,True,True,其他,Other,,暗格相册(具体所指不明),2026-11-10
+2023,rising,詐騙,zh,viagogo 是 詐騙 嗎,viagogo是詐騙嗎,10350,15,False,True,True,网购/交易,Online shopping/trading,Viagogo,Viagogo票务平台诈骗,2026-11-10
+2023,rising,詐騙,zh,thinkific 詐騙,thinkific詐騙,9500,16,False,True,True,求职/兼职,Job/part-time work,Thinkific,Thinkific课程平台赚钱骗局,2026-11-10
+2023,rising,詐騙,zh,okx 詐騙,okx詐騙,1200,17,False,True,False,投资/加密货币,Investment/cryptocurrency,OKX,,2026-11-10
+2023,rising,詐騙,zh,telegram 詐騙,telegram詐騙,950,18,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,Telegram,,2026-11-10
+2023,rising,詐騙,zh,62 詐騙,62詐騙,900,19,False,True,False,其他,Other,,62前缀电话诈骗(具体所指不明),2026-11-10
+2023,rising,詐騙,zh,jpex 詐騙,jpex詐騙,800,20,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2023,rising,詐騙,zh,shopback 詐騙,shopback詐騙,130,21,False,True,False,网购/交易,Online shopping/trading,ShopBack,ShopBack返现平台相关诈骗,2026-11-10
+2023,rising,詐騙,zh,詐騙 電話 查詢,詐騙電話查詢,60,22,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2023,rising,詐騙,zh,詐騙 網站,詐騙網站,60,23,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,rising,詐騙,zh,詐騙 電話 舉報,詐騙電話舉報,50,24,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2023,top,騙案,zh,whatsapp 騙 案,whatsapp騙案,100,1,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2023,top,騙案,zh,詐騙,詐騙,33,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,騙案,zh,carousell 騙 案,carousell騙案,32,3,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2023,top,騙案,zh,網 上 情緣 騙 案,網上情緣騙案,12,4,False,True,False,网上情缘/交友,Romance/social,,泛指网上情缘诈骗,2026-11-10
+2023,top,騙案,zh,ai 騙 案,ai騙案,5,5,False,True,False,AI/深度伪造,AI/deepfake,,AI相关诈骗,2026-11-10
+2023,rising,騙案,zh,ai 騙 案,ai騙案,59600,1,False,True,True,AI/深度伪造,AI/deepfake,,AI相关诈骗,2026-11-10
+2023,rising,騙案,zh,whatsapp 騙 案,whatsapp騙案,450,2,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2023,top,騙局,zh,jpex 騙局,jpex騙局,100,1,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2023,top,騙局,zh,nmn 騙局,nmn騙局,41,2,False,True,False,保健品/消费品骗局,Health/consumer product scams,NMN,NMN保健品骗局,2026-11-10
+2023,top,騙局,zh,騙局 英文,騙局英文,29,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,騙局,zh,龐 氏 騙局 jpex,龐氏騙局jpex,18,4,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2023,top,騙局,zh,加密 騙局,加密騙局,16,5,False,True,False,投资/加密货币,Investment/cryptocurrency,,泛指加密货币/虚拟货币诈骗,2026-11-10
+2023,top,騙局,zh,金錢 騙局,金錢騙局,13,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,騙局,zh,沉默 騙局,沉默騙局,12,7,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2023,top,騙局,zh,股票 騙局,股票騙局,11,8,False,True,False,投资/加密货币,Investment/cryptocurrency,,投资诈骗(伦敦金/黄金/股票),2026-11-10
+2023,top,騙局,zh,nft 騙局,nft騙局,7,9,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2023,top,騙局,zh,ai trader 騙局,ai trader騙局,6,10,False,True,False,投资/加密货币,Investment/cryptocurrency,AI Trader,假冒AI Trader自动交易平台,2026-11-10
+2023,top,騙局,zh,信息 素 騙局,信息素騙局,6,11,False,True,False,保健品/消费品骗局,Health/consumer product scams,,保健品/产品类骗局,2026-11-10
+2023,top,騙局,zh,mtr 全 年 車票 騙局,mtr全年車票騙局,5,12,False,True,False,网购/交易,Online shopping/trading,MTR,假冒MTR全年车票优惠诈骗,2026-11-10
+2023,top,騙局,zh,龐 氏 騙局 是 什麼,龐氏騙局是什麼,5,13,False,True,False,投资/加密货币,Investment/cryptocurrency,,庞氏骗局,2026-11-10
+2023,top,騙局,zh,旁氏 騙局,旁氏騙局,5,14,False,True,False,投资/加密货币,Investment/cryptocurrency,,庞氏骗局,2026-11-10
+2023,top,騙局,zh,燕麥 騙局,燕麥騙局,4,15,False,True,False,保健品/消费品骗局,Health/consumer product scams,,保健品/产品类骗局,2026-11-10
+2023,top,騙局,zh,黑 悟空 騙局,黑悟空騙局,4,16,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,rising,騙局,zh,龐 氏 騙局 jpex,龐氏騙局jpex,155100,1,False,True,True,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2023,rising,騙局,zh,金錢 騙局,金錢騙局,107550,2,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2023,rising,騙局,zh,沉默 騙局,沉默騙局,107350,3,False,True,True,其他,Other,,泛指/具体所指不明,2026-11-10
+2023,rising,騙局,zh,mtr 全 年 車票 騙局,mtr全年車票騙局,45300,4,False,True,True,网购/交易,Online shopping/trading,MTR,假冒MTR全年车票优惠诈骗,2026-11-10
+2023,rising,騙局,zh,龐 氏 騙局 是 什麼,龐氏騙局是什麼,44700,5,False,True,True,投资/加密货币,Investment/cryptocurrency,,庞氏骗局,2026-11-10
+2023,rising,騙局,zh,旁氏 騙局,旁氏騙局,42550,6,False,True,True,投资/加密货币,Investment/cryptocurrency,,庞氏骗局,2026-11-10
+2023,rising,騙局,zh,黑 悟空 騙局,黑悟空騙局,32950,7,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2023,rising,騙局,zh,jpex 騙局,jpex騙局,250,8,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2023,rising,騙局,zh,信息 素 騙局,信息素騙局,100,9,False,True,False,保健品/消费品骗局,Health/consumer product scams,,保健品/产品类骗局,2026-11-10
+2023,rising,騙局,zh,nmn 騙局,nmn騙局,90,10,False,True,False,保健品/消费品骗局,Health/consumer product scams,NMN,NMN保健品骗局,2026-11-10
+2023,rising,騙局,zh,燕麥 騙局,燕麥騙局,90,11,False,True,False,保健品/消费品骗局,Health/consumer product scams,,保健品/产品类骗局,2026-11-10
+2023,rising,騙局,zh,ai trader 騙局,ai trader騙局,90,12,False,True,False,投资/加密货币,Investment/cryptocurrency,AI Trader,假冒AI Trader自动交易平台,2026-11-10
+2023,top,scam,en,fraud,fraud,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,scam 中文,scam中文,19,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,scam email,scam email,9,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,scam meaning,scam meaning,8,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,online scam,online scam,7,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,scam call,scam call,6,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,phone scam,phone scam,5,7,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,scammer,scammer,5,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,scam website,scam website,4,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,spam,spam,4,10,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,crypto scam,crypto scam,4,11,False,True,False,投资/加密货币,Investment/cryptocurrency,,泛指加密货币/虚拟货币诈骗,2026-11-10
+2023,top,scam,en,scam check,scam check,4,12,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2023,top,scam,en,phishing scam,phishing scam,3,13,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,phishing,phishing,3,14,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,scam 意思,scam意思,3,15,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,jpex scam,jpex scam,3,16,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2023,top,scam,en,scan,scan,3,17,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,telegram scam,telegram scam,3,18,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,Telegram,,2026-11-10
+2023,top,scam,en,scam 2003,scam 2003,1,19,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2023,top,scam,en,scam detector,scam detector,1,20,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2023,top,scam,en,logan paul scam,logan paul scam,1,21,False,True,False,其他,Other,,YouTuber Logan Paul相关争议,2026-11-10
+2023,top,scam,en,whatsapp video call scam,whatsapp video call scam,0,22,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2023,rising,scam,en,scam 2003,scam 2003,24150,1,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2023,rising,scam,en,scam detector,scam detector,18700,2,False,True,True,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2023,rising,scam,en,logan paul scam,logan paul scam,13350,3,False,True,True,其他,Other,,YouTuber Logan Paul相关争议,2026-11-10
+2023,rising,scam,en,whatsapp video call scam,whatsapp video call scam,10850,4,False,True,True,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2023,rising,scam,en,mexc scam,mexc scam,10400,5,False,True,True,投资/加密货币,Investment/cryptocurrency,MEXC,,2026-11-10
+2023,rising,scam,en,jpex scam,jpex scam,250,6,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2023,rising,scam,en,telegram scam,telegram scam,120,7,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,Telegram,,2026-11-10
+2024,top,詐騙,zh,電話 詐騙,電話詐騙,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,詐騙,zh,香港 詐騙,香港詐騙,74,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,詐騙,zh,whatsapp 詐騙,whatsapp詐騙,28,3,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2024,top,詐騙,zh,詐騙 英文,詐騙英文,25,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,詐騙,zh,微信 詐騙,微信詐騙,18,5,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WeChat,,2026-11-10
+2024,top,詐騙,zh,詐騙 集團,詐騙集團,16,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,詐騙,zh,詐騙 電話 舉報,詐騙電話舉報,13,7,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2024,top,詐騙,zh,網絡 詐騙,網絡詐騙,12,8,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,詐騙,zh,telegram 詐騙,telegram詐騙,11,9,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,Telegram,,2026-11-10
+2024,top,詐騙,zh,詐騙 電話 查詢,詐騙電話查詢,10,10,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2024,top,詐騙,zh,詐騙 報案,詐騙報案,8,11,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2024,top,詐騙,zh,shopback 詐騙,shopback詐騙,8,12,False,True,False,网购/交易,Online shopping/trading,ShopBack,ShopBack返现平台相关诈骗,2026-11-10
+2024,top,詐騙,zh,微信 保險 詐騙,微信保險詐騙,7,13,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,WeChat,微信保险钓鱼短信诈骗,2026-11-10
+2024,top,詐騙,zh,詐騙 新聞,詐騙新聞,7,14,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,詐騙,zh,詐騙 電影,詐騙電影,7,15,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,詐騙,zh,unionpay 詐騙,unionpay詐騙,6,16,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,UnionPay,假冒银联(UnionPay)短信钓鱼,2026-11-10
+2024,top,詐騙,zh,whatsapp 驗證 詐騙,whatsapp驗證詐騙,6,17,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2024,top,詐騙,zh,易 通行 詐騙,hketoll詐騙,6,18,False,True,False,冒充物流/公共服务,Logistics/public service impersonation,HKeToll,假冒易通行(HKeToll)缴费短信,2026-11-10
+2024,top,詐騙,zh,facetime 詐騙,facetime詐騙,6,19,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,FaceTime,FaceTime视频通话诈骗,2026-11-10
+2024,top,詐騙,zh,騰訊 微 保 詐騙,騰訊微保詐騙,5,20,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,WeSure/騰訊微保,腾讯微保(WeSure)钓鱼诈骗,2026-11-10
+2024,top,詐騙,zh,反 詐騙 協調 中心,反詐騙協調中心,5,21,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗机构/工具,2026-11-10
+2024,top,詐騙,zh,正 生 書院 詐騙,正生書院詐騙,5,22,False,True,False,其他,Other,,具体个案(正生书院诈骗案),2026-11-10
+2024,top,詐騙,zh,騰訊 保險 詐騙,騰訊保險詐騙,4,23,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,WeSure/騰訊微保,腾讯微保(WeSure)钓鱼诈骗,2026-11-10
+2024,top,詐騙,zh,picc 詐騙,picc詐騙,4,24,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,PICC,假冒中国人保(PICC)保险短信,2026-11-10
+2024,top,詐騙,zh,union pay 詐騙,unionpay詐騙,3,25,False,False,False,冒充保险/金融机构,Insurance/financial impersonation,UnionPay,假冒银联(UnionPay)短信钓鱼,2026-11-10
+2024,rising,詐騙,zh,微信 保險 詐騙,微信保險詐騙,75450,1,False,True,True,冒充保险/金融机构,Insurance/financial impersonation,WeChat,微信保险钓鱼短信诈骗,2026-11-10
+2024,rising,詐騙,zh,正 生 書院 詐騙,正生書院詐騙,48850,2,False,True,True,其他,Other,,具体个案(正生书院诈骗案),2026-11-10
+2024,rising,詐騙,zh,騰訊 保險 詐騙,騰訊保險詐騙,48650,3,False,True,True,冒充保险/金融机构,Insurance/financial impersonation,WeSure/騰訊微保,腾讯微保(WeSure)钓鱼诈骗,2026-11-10
+2024,rising,詐騙,zh,picc 詐騙,picc詐騙,44400,4,False,True,True,冒充保险/金融机构,Insurance/financial impersonation,PICC,假冒中国人保(PICC)保险短信,2026-11-10
+2024,rising,詐騙,zh,union pay 詐騙,unionpay詐騙,37150,5,False,True,True,冒充保险/金融机构,Insurance/financial impersonation,UnionPay,假冒银联(UnionPay)短信钓鱼,2026-11-10
+2024,rising,詐騙,zh,騰訊 微 保 詐騙 香港,騰訊微保詐騙香港,33350,6,False,True,True,冒充保险/金融机构,Insurance/financial impersonation,WeSure/騰訊微保,腾讯微保(WeSure)钓鱼诈骗,2026-11-10
+2024,rising,詐騙,zh,hketoll 詐騙,hketoll詐騙,33100,7,False,True,True,冒充物流/公共服务,Logistics/public service impersonation,HKeToll,假冒易通行(HKeToll)缴费短信,2026-11-10
+2024,rising,詐騙,zh,axa 詐騙 短 訊,axa詐騙短訊,18700,8,False,True,True,冒充保险/金融机构,Insurance/financial impersonation,AXA,假冒安盛(AXA)保险短信,2026-11-10
+2024,rising,詐騙,zh,csn 詐騙,csn詐騙,13550,9,False,True,True,其他,Other,,短信/平台名称缩写(具体所指不明),2026-11-10
+2024,rising,詐騙,zh,wesure 詐騙,wesure詐騙,11550,10,False,True,True,冒充保险/金融机构,Insurance/financial impersonation,WeSure/騰訊微保,腾讯微保(WeSure)钓鱼诈骗,2026-11-10
+2024,rising,詐騙,zh,dalam 詐騙,dalam詐騙,10200,11,False,True,True,其他,Other,,具体所指不明,2026-11-10
+2024,rising,詐騙,zh,ucoo 詐騙,ucoo詐騙,8700,12,False,True,True,网上情缘/交友,Romance/social,Ucoo,,2026-11-10
+2024,rising,詐騙,zh,pionex 詐騙,pionex詐騙,7350,13,False,True,True,投资/加密货币,Investment/cryptocurrency,Pionex,,2026-11-10
+2024,rising,詐騙,zh,騰訊 微 保 詐騙,騰訊微保詐騙,2250,14,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,WeSure/騰訊微保,腾讯微保(WeSure)钓鱼诈骗,2026-11-10
+2024,rising,詐騙,zh,unionpay 詐騙,unionpay詐騙,850,15,False,False,False,冒充保险/金融机构,Insurance/financial impersonation,UnionPay,假冒银联(UnionPay)短信钓鱼,2026-11-10
+2024,rising,詐騙,zh,微信 詐騙,微信詐騙,750,16,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WeChat,,2026-11-10
+2024,rising,詐騙,zh,易 通行 詐騙,hketoll詐騙,500,17,False,False,False,冒充物流/公共服务,Logistics/public service impersonation,HKeToll,假冒易通行(HKeToll)缴费短信,2026-11-10
+2024,rising,詐騙,zh,whatsapp 驗證 詐騙,whatsapp驗證詐騙,500,18,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2024,top,騙案,zh,whatsapp 騙 案,whatsapp騙案,100,1,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2024,top,騙案,zh,carousell 騙 案,carousell騙案,78,2,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2024,top,騙案,zh,網 上 情緣 騙 案,網上情緣騙案,19,3,False,True,False,网上情缘/交友,Romance/social,,泛指网上情缘诈骗,2026-11-10
+2024,top,騙案,zh,ai 騙 案,ai騙案,14,4,False,True,False,AI/深度伪造,AI/deepfake,,AI相关诈骗,2026-11-10
+2024,rising,騙案,zh,ai 騙 案,ai騙案,60,1,False,True,False,AI/深度伪造,AI/deepfake,,AI相关诈骗,2026-11-10
+2024,top,騙局,zh,nmn 騙局,nmn騙局,100,1,False,True,False,保健品/消费品骗局,Health/consumer product scams,NMN,NMN保健品骗局,2026-11-10
+2024,top,騙局,zh,騙局 英文,騙局英文,47,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,騙局,zh,黑 悟空 騙局,黑悟空騙局,39,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,騙局,zh,金錢 騙局,金錢騙局,32,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,騙局,zh,nft 騙局,nft騙局,22,5,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2024,top,騙局,zh,jpex 騙局,jpex騙局,20,6,False,True,False,投资/加密货币,Investment/cryptocurrency,JPEX,JPEX加密货币交易平台诈骗案,2026-11-10
+2024,top,騙局,zh,全球 暖 化 騙局,全球暖化騙局,11,7,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,騙局,zh,沉默 騙局,沉默騙局,11,8,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2024,top,騙局,zh,nuskin 騙局,nuskin騙局,8,9,False,True,False,保健品/消费品骗局,Health/consumer product scams,Nu Skin,如新(Nu Skin)直销争议,2026-11-10
+2024,top,騙局,zh,宣明 會 助 養 兒童 騙局,宣明會助養兒童騙局,6,10,False,True,False,冒充慈善机构,Charity impersonation,宣明會,假冒世界宣明会助养儿童捐款诈骗,2026-11-10
+2024,top,騙局,zh,世紀 大 騙局,世紀大騙局,6,11,False,True,False,其他,Other,,泛指/具体所指不明,2026-11-10
+2024,top,騙局,zh,龐 氏 騙局 英文,龐氏騙局英文,4,12,False,True,False,投资/加密货币,Investment/cryptocurrency,,庞氏骗局,2026-11-10
+2024,rising,騙局,zh,黑 悟空 騙局,黑悟空騙局,178150,1,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2024,rising,騙局,zh,nuskin 騙局,nuskin騙局,38150,2,False,True,True,保健品/消费品骗局,Health/consumer product scams,Nu Skin,如新(Nu Skin)直销争议,2026-11-10
+2024,rising,騙局,zh,宣明 會 助 養 兒童 騙局,宣明會助養兒童騙局,27350,3,False,True,True,冒充慈善机构,Charity impersonation,宣明會,假冒世界宣明会助养儿童捐款诈骗,2026-11-10
+2024,top,scam,en,fraud,fraud,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,scam 中文,scam中文,32,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,scam email,scam email,16,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,scam call,scam call,10,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,scam meaning,scam meaning,10,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,scam website,scam website,8,6,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,spam,spam,7,7,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,scam check,scam check,7,8,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2024,top,scam,en,anti scam,anti scam,6,9,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2024,top,scam,en,scammer,scammer,6,10,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,scam message,scam message,5,11,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,scam 意思,scam意思,5,12,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,phishing scam,phishing scam,4,13,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,top,scam,en,romance scam,romance scam,3,14,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2024,top,scam,en,dataannotation scam,dataannotation scam,3,15,False,True,False,求职/兼职,Job/part-time work,DataAnnotation,数据标注兼职诈骗,2026-11-10
+2024,top,scam,en,pig butchering scam,pig butchering scam,2,16,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2024,top,scam,en,honey scam,honey scam,2,17,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2024,top,scam,en,wechat scam,wechat scam,2,18,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WeChat,,2026-11-10
+2024,top,scam,en,arup scam,arup scam,2,19,False,True,False,求职/兼职,Job/part-time work,Arup,假冒Arup工程公司的招聘诈骗,2026-11-10
+2024,top,scam,en,data annotation scam,data annotation scam,1,20,False,True,False,求职/兼职,Job/part-time work,DataAnnotation,数据标注兼职诈骗,2026-11-10
+2024,top,scam,en,scameter,scameter,1,21,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2024,rising,scam,en,dataannotation scam,dataannotation scam,40250,1,False,True,True,求职/兼职,Job/part-time work,DataAnnotation,数据标注兼职诈骗,2026-11-10
+2024,rising,scam,en,arup scam,arup scam,24600,2,False,True,True,求职/兼职,Job/part-time work,Arup,假冒Arup工程公司的招聘诈骗,2026-11-10
+2024,rising,scam,en,data annotation scam,data annotation scam,16900,3,False,True,True,求职/兼职,Job/part-time work,DataAnnotation,数据标注兼职诈骗,2026-11-10
+2024,rising,scam,en,pig butchering scam,pig butchering scam,120,4,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2024,rising,scam,en,scam message,scam message,60,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2024,rising,scam,en,scameter,scameter,50,6,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2024,rising,scam,en,honey scam,honey scam,50,7,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2024,rising,scam,en,anti scam,anti scam,40,8,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2025,top,詐騙,zh,詐騙 電話,詐騙電話,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,詐騙,zh,香港 詐騙,香港詐騙,88,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,詐騙,zh,詐騙 英文,詐騙英文,30,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,詐騙,zh,whatsapp 詐騙,whatsapp詐騙,28,4,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2025,top,詐騙,zh,詐騙 集團,詐騙集團,25,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,詐騙,zh,詐騙 園區,詐騙園區,17,6,False,True,False,跨境诈骗园区,Cross-border scam compounds,,KK园区等跨境诈骗园区,2026-11-10
+2025,top,詐騙,zh,詐騙 電話 號碼,詐騙電話號碼,16,7,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2025,top,詐騙,zh,詐騙 電話 查詢,詐騙電話查詢,15,8,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2025,top,詐騙,zh,緬甸 詐騙,緬甸詐騙,13,9,False,True,False,跨境诈骗园区,Cross-border scam compounds,緬甸,缅甸诈骗园区,2026-11-10
+2025,top,詐騙,zh,網絡 詐騙,網絡詐騙,13,10,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,詐騙,zh,詐騙 手法,詐騙手法,11,11,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,詐騙,zh,高校 簡訊 詐騙 疑雲,高校簡訊詐騙疑雲,11,12,False,True,False,其他,Other,,2025年高校简讯诈骗疑云新闻事件,2026-11-10
+2025,top,詐騙,zh,陌生 號碼 高校 簡訊 詐騙 疑雲,陌生號碼高校簡訊詐騙疑雲,10,13,False,True,False,其他,Other,,2025年高校简讯诈骗疑云新闻事件,2026-11-10
+2025,top,詐騙,zh,詐騙 熱線,詐騙熱線,9,14,False,True,False,防骗与求助资源,Anti-scam resources,,诈骗电话举报/查询/报案,2026-11-10
+2025,top,詐騙,zh,binance 詐騙,binance詐騙,8,15,False,True,False,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,top,詐騙,zh,alipay 詐騙,alipay詐騙,8,16,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,Alipay,支付宝钓鱼/盗刷诈骗,2026-11-10
+2025,top,詐騙,zh,ibkr 詐騙,ibkr詐騙,8,17,False,True,False,投资/加密货币,Investment/cryptocurrency,Interactive Brokers,假冒盈透证券(IBKR)投资平台,2026-11-10
+2025,top,詐騙,zh,viagogo 詐騙,viagogo詐騙,7,18,False,True,False,网购/交易,Online shopping/trading,Viagogo,Viagogo票务平台诈骗,2026-11-10
+2025,top,詐騙,zh,菜鳥 詐騙,cainiao詐騙,5,19,False,True,False,冒充物流/公共服务,Logistics/public service impersonation,Cainiao,假冒菜鸟物流短信,2026-11-10
+2025,top,詐騙,zh,youtube premium 詐騙,youtube premium詐騙,5,20,False,True,False,网购/交易,Online shopping/trading,YouTube,YouTube Premium付费订阅钓鱼,2026-11-10
+2025,top,詐騙,zh,binance 詐騙 sms,binance詐騙sms,4,21,False,True,False,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,top,詐騙,zh,taobao 詐騙,taobao詐騙,3,22,False,True,False,网购/交易,Online shopping/trading,Taobao,,2026-11-10
+2025,top,詐騙,zh,cainiao 詐騙,cainiao詐騙,2,23,False,False,False,冒充物流/公共服务,Logistics/public service impersonation,Cainiao,假冒菜鸟物流短信,2026-11-10
+2025,top,詐騙,zh,bowtie 詐騙,bowtie詐騙,2,24,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,Bowtie,香港保泰人寿(Bowtie)钓鱼,2026-11-10
+2025,top,詐騙,zh,高中 短 訊 詐騙 疑雲,高中短訊詐騙疑雲,2,25,False,True,False,其他,Other,,2025年高校简讯诈骗疑云新闻事件,2026-11-10
+2025,rising,詐騙,zh,高校 簡訊 詐騙 疑雲,高校簡訊詐騙疑雲,95500,1,False,True,True,其他,Other,,2025年高校简讯诈骗疑云新闻事件,2026-11-10
+2025,rising,詐騙,zh,陌生 號碼 高校 簡訊 詐騙 疑雲,陌生號碼高校簡訊詐騙疑雲,83400,2,False,True,True,其他,Other,,2025年高校简讯诈骗疑云新闻事件,2026-11-10
+2025,rising,詐騙,zh,菜鳥 詐騙,cainiao詐騙,39950,3,False,True,True,冒充物流/公共服务,Logistics/public service impersonation,Cainiao,假冒菜鸟物流短信,2026-11-10
+2025,rising,詐騙,zh,youtube premium 詐騙,youtube premium詐騙,39300,4,False,True,True,网购/交易,Online shopping/trading,YouTube,YouTube Premium付费订阅钓鱼,2026-11-10
+2025,rising,詐騙,zh,binance 詐騙 sms,binance詐騙sms,30950,5,False,True,True,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,rising,詐騙,zh,cainiao 詐騙,cainiao詐騙,17550,6,False,False,True,冒充物流/公共服务,Logistics/public service impersonation,Cainiao,假冒菜鸟物流短信,2026-11-10
+2025,rising,詐騙,zh,高中 短 訊 詐騙 疑雲,高中短訊詐騙疑雲,15900,7,False,True,True,其他,Other,,2025年高校简讯诈骗疑云新闻事件,2026-11-10
+2025,rising,詐騙,zh,finance legend 詐騙,finance legend詐騙,5950,8,False,True,True,投资/加密货币,Investment/cryptocurrency,Finance Legend,Finance Legend投资平台诈骗,2026-11-10
+2025,rising,詐騙,zh,ibkr 詐騙,ibkr詐騙,2800,9,False,True,False,投资/加密货币,Investment/cryptocurrency,Interactive Brokers,假冒盈透证券(IBKR)投资平台,2026-11-10
+2025,rising,詐騙,zh,bowtie 詐騙,bowtie詐騙,500,10,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,Bowtie,香港保泰人寿(Bowtie)钓鱼,2026-11-10
+2025,rising,詐騙,zh,binance 詐騙,binance詐騙,400,11,False,True,False,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,rising,詐騙,zh,taobao 詐騙,taobao詐騙,300,12,False,True,False,网购/交易,Online shopping/trading,Taobao,,2026-11-10
+2025,rising,詐騙,zh,alipay 詐騙,alipay詐騙,250,13,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,Alipay,支付宝钓鱼/盗刷诈骗,2026-11-10
+2025,rising,詐騙,zh,詐騙 園區,詐騙園區,200,14,False,True,False,跨境诈骗园区,Cross-border scam compounds,,KK园区等跨境诈骗园区,2026-11-10
+2025,rising,詐騙,zh,viagogo 詐騙,viagogo詐騙,190,15,False,True,False,网购/交易,Online shopping/trading,Viagogo,Viagogo票务平台诈骗,2026-11-10
+2025,rising,詐騙,zh,緬甸 詐騙,緬甸詐騙,180,16,False,True,False,跨境诈骗园区,Cross-border scam compounds,緬甸,缅甸诈骗园区,2026-11-10
+2025,top,騙案,zh,carousell 騙 案,carousell騙案,100,1,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2025,top,騙案,zh,詐騙,詐騙,90,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,騙案,zh,whatsapp 騙 案,whatsapp騙案,59,3,False,True,False,账户与通讯软件盗用,Account/messaging app takeover,WhatsApp,WhatsApp账户盗用/视像诈骗,2026-11-10
+2025,top,騙案,zh,支付寶 騙 案,alipay騙案,28,4,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,Alipay,支付宝钓鱼/盗刷诈骗,2026-11-10
+2025,top,騙案,zh,支付寶,alipay,27,5,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,Alipay,支付宝钓鱼/盗刷诈骗,2026-11-10
+2025,top,騙案,zh,ai 騙 案,ai騙案,14,6,False,True,False,AI/深度伪造,AI/deepfake,,AI相关诈骗,2026-11-10
+2025,top,騙案,zh,網 上 情緣 騙 案,網上情緣騙案,14,7,False,True,False,网上情缘/交友,Romance/social,,泛指网上情缘诈骗,2026-11-10
+2025,rising,騙案,zh,支付寶 騙 案,alipay騙案,250,1,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,Alipay,支付宝钓鱼/盗刷诈骗,2026-11-10
+2025,rising,騙案,zh,支付寶,alipay,170,2,False,True,False,冒充保险/金融机构,Insurance/financial impersonation,Alipay,支付宝钓鱼/盗刷诈骗,2026-11-10
+2025,top,騙局,zh,nmn 騙局,nmn騙局,100,1,False,True,False,保健品/消费品骗局,Health/consumer product scams,NMN,NMN保健品骗局,2026-11-10
+2025,top,騙局,zh,騙局 英文,騙局英文,60,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,騙局,zh,deepseek 騙局,deepseek騙局,44,3,False,True,False,AI/深度伪造,AI/deepfake,DeepSeek,假冒DeepSeek AI应用的骗局,2026-11-10
+2025,top,騙局,zh,倫敦 金 騙局,倫敦金騙局,18,4,False,True,False,投资/加密货币,Investment/cryptocurrency,,投资诈骗(伦敦金/黄金/股票),2026-11-10
+2025,top,騙局,zh,金錢 騙局,金錢騙局,17,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,騙局,zh,方 型 國際 騙局,方型國際騙局,13,6,False,True,False,其他,Other,,方型国际(具体所指不明),2026-11-10
+2025,top,騙局,zh,fun coffee 騙局,fun coffee騙局,13,7,False,True,False,保健品/消费品骗局,Health/consumer product scams,,咖啡产品/品牌骗局,2026-11-10
+2025,top,騙局,zh,nft 騙局,nft騙局,12,8,False,True,False,投资/加密货币,Investment/cryptocurrency,NFT,NFT相关骗局,2026-11-10
+2025,top,騙局,zh,nuskin 騙局,nuskin騙局,5,9,False,True,False,保健品/消费品骗局,Health/consumer product scams,Nu Skin,如新(Nu Skin)直销争议,2026-11-10
+2025,rising,騙局,zh,deepseek 騙局,deepseek騙局,165900,1,False,True,True,AI/深度伪造,AI/deepfake,DeepSeek,假冒DeepSeek AI应用的骗局,2026-11-10
+2025,rising,騙局,zh,方 型 國際 騙局,方型國際騙局,47950,2,False,True,True,其他,Other,,方型国际(具体所指不明),2026-11-10
+2025,rising,騙局,zh,fun coffee 騙局,fun coffee騙局,47350,3,False,True,True,保健品/消费品骗局,Health/consumer product scams,,咖啡产品/品牌骗局,2026-11-10
+2025,rising,騙局,zh,倫敦 金 騙局,倫敦金騙局,250,4,False,True,False,投资/加密货币,Investment/cryptocurrency,,投资诈骗(伦敦金/黄金/股票),2026-11-10
+2025,top,scam,en,fraud,fraud,100,1,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,scam 中文,scam中文,31,2,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,scam email,scam email,15,3,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,scam call,scam call,15,4,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,scam meaning,scam meaning,14,5,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,ai scam,ai scam,13,6,False,True,False,AI/深度伪造,AI/deepfake,,AI相关诈骗,2026-11-10
+2025,top,scam,en,phone scam,phone scam,12,7,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,anti scam,anti scam,9,8,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2025,top,scam,en,scan,scan,8,9,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,scammer,scammer,7,10,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,spam,spam,6,11,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,myanmar scam,myanmar scam,6,12,False,True,False,跨境诈骗园区,Cross-border scam compounds,,东南亚诈骗园区,2026-11-10
+2025,top,scam,en,scam 意思,scam意思,6,13,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,thailand scam,thailand scam,5,14,False,True,False,其他,Other,,泰国相关诈骗(具体所指不明),2026-11-10
+2025,top,scam,en,binance scam,binance scam,5,15,False,True,False,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,top,scam,en,phishing scam,phishing scam,5,16,True,True,False,无具体信息,Non-specific,,,2026-11-10
+2025,top,scam,en,binance,binance,4,17,False,True,False,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,top,scam,en,carousell scam,carousell scam,4,18,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2025,top,scam,en,love scam,love scam,3,19,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2025,top,scam,en,honey scam,honey scam,3,20,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2025,top,scam,en,romance scam,romance scam,3,21,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2025,top,scam,en,scam farm,scam farm,3,22,False,True,False,跨境诈骗园区,Cross-border scam compounds,,诈骗园区/农场,2026-11-10
+2025,top,scam,en,scam website check,scam website check,2,23,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2025,top,scam,en,binance scam text,binance scam text,2,24,False,True,False,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,top,scam,en,brad pitt scam,brad pitt scam,1,25,False,True,False,网上情缘/交友,Romance/social,Brad Pitt,假冒Brad Pitt的深伪情缘诈骗,2026-11-10
+2025,rising,scam,en,myanmar scam,myanmar scam,87250,1,False,True,True,跨境诈骗园区,Cross-border scam compounds,,东南亚诈骗园区,2026-11-10
+2025,rising,scam,en,binance,binance,63300,2,False,True,True,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,rising,scam,en,what is a phishing scam,what is a phishing scam,9550,3,True,True,True,无具体信息,Non-specific,,,2026-11-10
+2025,rising,scam,en,binance scam,binance scam,550,4,False,True,False,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,rising,scam,en,binance scam text,binance scam text,250,5,False,True,False,投资/加密货币,Investment/cryptocurrency,Binance,币安(Binance)相关诈骗,2026-11-10
+2025,rising,scam,en,thailand scam,thailand scam,200,6,False,True,False,其他,Other,,泰国相关诈骗(具体所指不明),2026-11-10
+2025,rising,scam,en,brad pitt scam,brad pitt scam,200,7,False,True,False,网上情缘/交友,Romance/social,Brad Pitt,假冒Brad Pitt的深伪情缘诈骗,2026-11-10
+2025,rising,scam,en,honey scam,honey scam,160,8,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
+2025,rising,scam,en,scam farm,scam farm,140,9,False,True,False,跨境诈骗园区,Cross-border scam compounds,,诈骗园区/农场,2026-11-10
+2025,rising,scam,en,scam website check,scam website check,90,10,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2025,rising,scam,en,ai scam,ai scam,90,11,False,True,False,AI/深度伪造,AI/deepfake,,AI相关诈骗,2026-11-10
+2025,rising,scam,en,anti scam,anti scam,50,12,False,True,False,防骗与求助资源,Anti-scam resources,,反诈骗检查工具/组织(如警队防骗视伏器Scameter),2026-11-10
+2025,rising,scam,en,carousell scam,carousell scam,40,13,False,True,False,网购/交易,Online shopping/trading,Carousell,Carousell二手交易平台诈骗,2026-11-10
+2025,rising,scam,en,love scam,love scam,40,14,False,True,False,网上情缘/交友,Romance/social,,网上情缘/杀猪盘诈骗,2026-11-10
